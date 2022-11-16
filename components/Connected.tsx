@@ -16,7 +16,7 @@ const Connected: FC = () => {
       <Container>
         <VStack spacing={8}>
           <Heading
-            color="black"
+            color="purple"
             as="h1"
             size="2xl"
             noOfLines={1}

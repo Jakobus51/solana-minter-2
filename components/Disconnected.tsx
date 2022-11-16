@@ -35,7 +35,7 @@ const Disconnected: FC = () => {
     <Container>
       <VStack spacing={20}>
         <Heading
-          color="white"
+          color="purple"
           as="h1"
           size="3xl"
           noOfLines={2}

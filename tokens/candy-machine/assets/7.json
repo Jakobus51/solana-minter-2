@@ -1,0 +1,32 @@
+{
+    "name": "HipHop Cat #8",
+    "symbol": "HHCAT",
+    "description": "These cats are vibing af.",
+    "image": "7.png",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Chillin"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Light red"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Headphones"
+        },
+        {
+            "trait_type": "Favourite artist",
+            "value": "Kid Cudi"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "7.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "name": "HipHop Cat #4",
+    "symbol": "HHCAT",
+    "description": "These cats are vibing af.",
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "Color",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Boombox"
+        },
+        {
+            "trait_type": "Favourite artist",
+            "value": "Snoop Dogg"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

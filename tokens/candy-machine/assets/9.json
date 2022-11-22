@@ -1,0 +1,32 @@
+{
+    "name": "HipHop Cat #10",
+    "symbol": "HHCAT",
+    "description": "These cats are vibing af.",
+    "image": "9.png",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Headphones"
+        },
+        {
+            "trait_type": "Favourite artist",
+            "value": "Denzel Curry"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "9.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

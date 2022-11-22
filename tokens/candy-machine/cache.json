@@ -1,0 +1,97 @@
+{
+  "program": {
+    "candyMachine": "Hk7c6H4jPZNVg5Nj9qLwTKNksrVjEQr9TN5cMCw48Kid",
+    "candyMachineCreator": "B6gMiH8q98BF1KRnbsKFwfrk3ZwMp5yp7MHRH8GKeatd",
+    "collectionMint": "2WsJ89NwsPguPMoatM839nArgfmgSwxVesGp2vEedu2F"
+  },
+  "items": {
+    "-1": {
+      "name": "HipHop Cat Collection",
+      "image_hash": "e490b9b18d3b40a7c8f30feaeb33f5b9a17ab5006de5cd24fc2aa0cc08d69143",
+      "image_link": "https://arweave.net/OxCZDNZyiYTKv3nEvSu-KuJj9N5nQOSyHsMbvErqhvo?ext=png",
+      "metadata_hash": "2f1f5dc6abddae23bced87fc040994a1573b23ce589ab41a002631e2d23168f1",
+      "metadata_link": "https://arweave.net/Vi9gqR3QyGMSJgHyaHYfvCsSYi85p3WPTIt6sUVmleA",
+      "onChain": true
+    },
+    "0": {
+      "name": "HipHop Cat #1",
+      "image_hash": "b073526a2ed1b0769b5f0b98c0e360edd43d027148d880de07fc8b1797d34b0d",
+      "image_link": "https://arweave.net/PnqoCESAn-7t3Ry4jksRuuR5bP2bkmqCAb1wVu6a9VI?ext=png",
+      "metadata_hash": "66cbd215397b332bcc245ba9f9f223199db22ae760d1b954b3b256cdfc15c28b",
+      "metadata_link": "https://arweave.net/ESuALj_uUnxAJoXJREBIiSfjmaf2vvuYWUH9caLQ6iQ",
+      "onChain": true
+    },
+    "1": {
+      "name": "HipHop Cat #2",
+      "image_hash": "b15ba33b5a7f4b7592f52e799a979c1474d5b778ef13ec4503e0bddc664a56ac",
+      "image_link": "https://arweave.net/74qZQl78dEDzC8Z_SSZzVIkmnljrz8vSmW2AsPFOJGM?ext=png",
+      "metadata_hash": "01bf01284ff5dd16cd5136e92cea0df9264ff40c348e4f7dfdf1b06e782caeca",
+      "metadata_link": "https://arweave.net/fyBwUci9vJEkTZW2b-957fiZvThqYYxs9vHImJmJnAY",
+      "onChain": true
+    },
+    "2": {
+      "name": "HipHop Cat #3",
+      "image_hash": "91e1a99e57dde9cc47df76ebb68a0f5769e8d13cdddf22926efb02a04c0b3a0c",
+      "image_link": "https://arweave.net/qbFE4wyh8K8SU1aJKKflq2M92OJH0JJuvYRk7qwn5Lg?ext=png",
+      "metadata_hash": "dec0f5de619ced4caf7dc07a8252ef2fbf2f9cfbd45c29fd770c97257b5c66be",
+      "metadata_link": "https://arweave.net/5JHzkbDsKWCdGSA0awkGqW_4l_ENDSSDjJ4_o1zaVu8",
+      "onChain": true
+    },
+    "3": {
+      "name": "HipHop Cat #4",
+      "image_hash": "f499496e40790afe14149195a7cb07ffc03214af696149a5b04719c2a1a020c3",
+      "image_link": "https://arweave.net/byKlc0VejY0Q-TZEoaGwODZtdXObQgJKTsd46vajZnQ?ext=png",
+      "metadata_hash": "b2005ea95506a411338dae7eda167e14af7d3edf2e5336ddae7ebea5c69d9431",
+      "metadata_link": "https://arweave.net/GljUFjQT4aA0GnH3V8CIh6ugfEWTIJwn_g4CzCPA7HI",
+      "onChain": true
+    },
+    "4": {
+      "name": "HipHop Cat #5",
+      "image_hash": "614d7b3320e6d40e6f50930cfc08d6e2fefa4bdddeced2917410c33fcbe56d28",
+      "image_link": "https://arweave.net/TpL5n-qJBgkgylC5Q6NbeS9eg2Ip0D9EfI52WL4LW88?ext=png",
+      "metadata_hash": "bceb1af743bc5f77bae468faaf020b28dc7b17e24d91e0c96a3563a6f4a42c34",
+      "metadata_link": "https://arweave.net/je9fNh5sndMPpjBgHcLA_vgHKbbTjK_SvRFT9TVyTCI",
+      "onChain": true
+    },
+    "5": {
+      "name": "HipHop Cat #6",
+      "image_hash": "31aa9221a0164a250aa5013fa231c60b9a6f7c1f981815570a41943a60e5ac3b",
+      "image_link": "https://arweave.net/HC_8majqu-psHu-zsxwSvuTDTfdo_Rk7_b5vv63PCGE?ext=png",
+      "metadata_hash": "295fdd07a5fcba46e91f1bb86c4de90407c716f3dc5fac09386193f537ac06e2",
+      "metadata_link": "https://arweave.net/VXtdcFUP6pjIeTU7E39yp-tt1Um_Tp2ecRK-3lzs0d0",
+      "onChain": true
+    },
+    "6": {
+      "name": "HipHop Cat #7",
+      "image_hash": "e9ef94016fec958a7e8d46788d7ad8017956aae9cc3a233902bd97ac82deba37",
+      "image_link": "https://arweave.net/EJnBMzzSFScf1fPH6-iPDKcCGnuPeMeOe2dYbgddX3U?ext=png",
+      "metadata_hash": "54c544619d8e1b8624cb3ecb498fbe42d904afc5bcbe1a7cbe0a17e2412ee886",
+      "metadata_link": "https://arweave.net/Pz4_2HA9WkIoIh7PfnlfVqZsUByurFd3nf5mSOJqEbU",
+      "onChain": true
+    },
+    "7": {
+      "name": "HipHop Cat #8",
+      "image_hash": "41f282e2b846ebaeee07678d9d17823283685855ff98cadd630879f3e8b9a5f1",
+      "image_link": "https://arweave.net/uHY3pNQkZjDT0qYZj9UAy2Hw5pp8HIMvPH28L_zn1p4?ext=png",
+      "metadata_hash": "ffb015563c3bc8f87f68be960585836fa4dc409fe48318ef224943fd6d7b1fce",
+      "metadata_link": "https://arweave.net/Pk32L2uEYPrVDW4o9Z-lP-oXGAALlx-gRhZhB_ZcAqU",
+      "onChain": true
+    },
+    "8": {
+      "name": "HipHop Cat #9",
+      "image_hash": "024d2e9bae9e59ebd47b4bef64f04fafccb81bdec883b4f643cf0ced6335ad07",
+      "image_link": "https://arweave.net/zTfO196bwYcNPiRhgrqOZDWzR66o9vqeJd5w1BZchDk?ext=png",
+      "metadata_hash": "f0c3112819fea4ef581749b3f620b05f56a9b1cc0e647e41075c4f14576a208c",
+      "metadata_link": "https://arweave.net/80derB5O9iII3SO9lrLIwv_D82oSjoO-al4tKXCc6H4",
+      "onChain": true
+    },
+    "9": {
+      "name": "HipHop Cat #10",
+      "image_hash": "bf7e7de61fffd6325c6ac2879460c769746ad75a7a0828ac6bdf50fdd1fc2bf4",
+      "image_link": "https://arweave.net/eLZWwbpzV-4ADAQrBfo4xjZ26MQWgmRhNu-3xew8MOk?ext=png",
+      "metadata_hash": "aa7c493cfe0843d73338c6dbfc3921ad26fb9e429cdc14a520dac1b1cbe27b91",
+      "metadata_link": "https://arweave.net/RunNXCZan15Lzh3Bf6muo2h_LN0dpuLBB5nVIlPiBX0",
+      "onChain": true
+    }
+  }
+}

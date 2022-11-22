@@ -1,0 +1,32 @@
+{
+    "name": "HipHop Cat #3",
+    "symbol": "HHCAT",
+    "description": "These cats are vibing af.",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Hyped"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Headphones"
+        },
+        {
+            "trait_type": "Favourite artist",
+            "value": "Jay-Z"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

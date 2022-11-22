@@ -1,0 +1,32 @@
+{
+    "name": "HipHop Cat #7",
+    "symbol": "HHCAT",
+    "description": "These cats are vibing af.",
+    "image": "6.png",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Ballin"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Cap"
+        },
+        {
+            "trait_type": "Favourite artist",
+            "value": "Nas"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "6.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

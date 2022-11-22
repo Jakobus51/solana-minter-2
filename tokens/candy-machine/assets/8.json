@@ -1,0 +1,32 @@
+{
+    "name": "HipHop Cat #9",
+    "symbol": "HHCAT",
+    "description": "These cats are vibing af.",
+    "image": "8.png",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Dabbin"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Brown"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "White T"
+        },
+        {
+            "trait_type": "Favourite artist",
+            "value": "Asap Rocky"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "8.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

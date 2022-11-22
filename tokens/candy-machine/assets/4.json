@@ -1,0 +1,32 @@
+{
+    "name": "HipHop Cat #5",
+    "symbol": "HHCAT",
+    "description": "These cats are vibing af.",
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Contemplating"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Cap"
+        },
+        {
+            "trait_type": "Favourite artist",
+            "value": "Kendrick Lamar"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

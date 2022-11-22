@@ -1,0 +1,32 @@
+{
+    "name": "HipHop Cat #2",
+    "symbol": "HHCAT",
+    "description": "These cats are vibing af.",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Chill"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Boombox"
+        },
+        {
+            "trait_type": "Favourite artist",
+            "value": "Kanye West"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

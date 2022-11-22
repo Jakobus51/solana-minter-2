@@ -1,0 +1,32 @@
+{
+    "name": "HipHop Cat #6",
+    "symbol": "HHCAT",
+    "description": "These cats are vibing af.",
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Ballin"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Tiger"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "6 chains"
+        },
+        {
+            "trait_type": "Favourite artist",
+            "value": "2 Chainz"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
